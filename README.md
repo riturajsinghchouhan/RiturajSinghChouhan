@@ -21,18 +21,18 @@
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://img.icons8.com/fluency/30/user-male-circle.png" width="26" alt="" /> About Me
 
 I'm a **B.Tech student in Computer Science & Information Technology** at **IPS Academy, Indore**, with a passion for building clean, responsive, and scalable web applications.
 
-- 🌱 Currently sharpening my skills in **Full-Stack Web Development (MERN)**
-- 🔨 Building real-world projects to turn ideas into working products
-- 🤖 Using AI-powered tools like **Claude**, **Cursor**, and **Antigravity** to work smarter and ship faster
-- 📫 Reach me at **[crituraj008@gmail.com](mailto:crituraj008@gmail.com)**
+- Currently sharpening my skills in **Full-Stack Web Development (MERN)**
+- Building real-world projects to turn ideas into working products
+- Using AI-powered tools like **Claude**, **Cursor**, and **Antigravity** to work smarter and ship faster
+- Reach me at **[crituraj008@gmail.com](mailto:crituraj008@gmail.com)**
 
 ---
 
-## 🎓 Education
+## <img src="https://img.icons8.com/fluency/30/graduation-cap.png" width="26" alt="" /> Education
 
 | Degree | Institution |
 | :-- | :-- |
@@ -40,41 +40,15 @@ I'm a **B.Tech student in Computer Science & Information Technology** at **IPS A
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://img.icons8.com/fluency/30/source-code.png" width="26" alt="" /> Tech Stack
 
-**Languages**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
-**Frontend**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-**Backend & Database**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
-**Tools**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,react,tailwind,nodejs,express,mongodb,git,github,vscode&perline=10" alt="Tech Stack" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://img.icons8.com/fluency/30/combo-chart.png" width="26" alt="" /> GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=riturajsinghchouhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -88,5 +62,5 @@ I'm a **B.Tech student in Computer Science & Information Technology** at **IPS A
 ---
 
 <p align="center">
-  <i>⭐ Thanks for visiting! Let's connect and build something great together.</i>
+  <i>Thanks for visiting! Let's connect and build something great together.</i>
 </p>
